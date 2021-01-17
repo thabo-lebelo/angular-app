@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-# See http://help.github.com/ignore-files/ for more about ignoring files.
-
->>>>>>> master
 # compiled output
 /dist
 /tmp
@@ -41,12 +36,6 @@ testem.log
 /e2e/*.js
 /e2e/*.map
 
-=======
-yarn-error.log
-testem.log
-/typings
-
->>>>>>> master
 # System Files
 .DS_Store
 Thumbs.db
